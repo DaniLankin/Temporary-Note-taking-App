@@ -1,0 +1,11 @@
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\bin\Debug\Temporary-Note-taking-App.exe.config
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\bin\Debug\Temporary-Note-taking-App.exe
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\bin\Debug\Temporary-Note-taking-App.pdb
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary-Note-taking-App.csproj.AssemblyReference.cache
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary-Note-taking-App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary_Note_taking_App.Form1.resources
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary_Note_taking_App.Properties.Resources.resources
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary-Note-taking-App.csproj.GenerateResource.cache
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary-Note-taking-App.csproj.CoreCompileInputs.cache
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary-Note-taking-App.exe
+C:\Users\Danik\source\repos\C#\Temporary-Note-taking-App\obj\Debug\Temporary-Note-taking-App.pdb
